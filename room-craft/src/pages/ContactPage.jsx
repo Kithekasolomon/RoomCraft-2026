@@ -28,7 +28,7 @@ const ContactPage = () => {
                   <Phone className="w-8 h-8 text-amber-600 flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="font-semibold text-xl">Phone</h3>
-                    <a href="tel:+254700000000" className="text-gray-700 text-lg">+254 700 000 000</a>
+                    <a href="tel:+254788313750" className="text-gray-700 text-lg">+254 788 313 750</a>
                   </div>
                 </div>
 
