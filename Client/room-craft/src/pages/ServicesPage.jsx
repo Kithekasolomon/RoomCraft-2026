@@ -6,7 +6,7 @@ const services = [
   {
     title: 'Gypsum Ceiling Installation',
     description: 'Elegant and modern gypsum board ceilings that enhance acoustics, hide wiring, and add a sophisticated finish to any room. We handle everything from simple flat ceilings to intricate designs with lighting integration.',
-    image: '/images/services/gypsum-ceiling.jpg',
+    image: 'https://www.gypsumceilingkenya.co.ke/wp-content/uploads/Gypsum-Ceiling-Design-16-1-1024x670.jpg',
     features: ['Custom designs', 'LED lighting integration', 'Sound insulation', 'Fast & clean installation']
   },
   {
@@ -30,13 +30,13 @@ const services = [
   {
     title: 'Wall Panels and Marble Fixing',
     description: 'Luxurious 3D wall panels, PVC panels, and natural marble installations. Add texture, depth, and elegance to your walls with modern or classic designs.',
-    image: '/images/services/wall-panels.jpg',
+    image: 'https://rocksaltprints.com/wp-content/uploads/2022/05/Black-Marble-Stone-Cream-Acrylic-shower-panel.jpg',
     features: ['3D wall panels', 'PVC panels', 'Natural marble fixing', 'TV feature walls & accents']
   },
   {
     title: 'TV Units',
     description: 'Custom-designed TV units that combine functionality with style. Floating units, full-wall entertainment centers, or minimalist stands – built to fit your space perfectly.',
-    image: '/images/services/tv-units.jpg',
+    image: 'https://5.imimg.com/data5/ANDROID/Default/2023/1/XX/MQ/OH/86992323/product-jpeg.jpg',
     features: ['Fully custom built', 'Smart cable management', 'Ample storage', 'Modern & classic styles']
   },
   {

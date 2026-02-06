@@ -21,7 +21,7 @@ const HomePage = () => {
 
   // Services Preview
   const services = [
-    { title: 'Gypsum Ceiling Installation', image: '/images/services/gypsum-ceiling.jpg' },
+    { title: 'Gypsum Ceiling Installation', image: 'https://www.gypsumceilingkenya.co.ke/wp-content/uploads/Gypsum-Ceiling-Design-16-1-1024x670.jpg' },
     { title: 'Acoustic Ceiling Installation', image: '/images/services/acoustic-ceiling.jpg' },
     { title: 'Laminate Flooring Services', image: '/images/services/laminate-flooring.jpg' },
     { title: 'Paint Work', image: '/images/services/paint-work.jpg' },
