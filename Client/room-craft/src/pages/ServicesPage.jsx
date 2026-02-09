@@ -32,6 +32,7 @@ const services = [
     description: 'Luxurious 3D wall panels, PVC panels, and natural marble installations. Add texture, depth, and elegance to your walls with modern or classic designs.',
     image: 'https://rocksaltprints.com/wp-content/uploads/2022/05/Black-Marble-Stone-Cream-Acrylic-shower-panel.jpg',
     features: ['3D wall panels', 'PVC panels', 'Natural marble fixing', 'TV feature walls & accents']
+    
   },
   {
     title: 'TV Units',
