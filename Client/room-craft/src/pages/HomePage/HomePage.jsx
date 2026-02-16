@@ -181,7 +181,7 @@ const HomePage = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="group relative h-96 rounded-2xl overflow-hidden shadow-xl cursor-pointer">
-              <div className="w-full h-full bg-cover bg-center" style={{ backgroundImage: 'url(/images/services/gypsum-ceiling.jpg)' }} />
+              <div className="w-full h-full bg-cover bg-center" style={{ backgroundImage: 'url(https://www.gypsumceilingkenya.co.ke/wp-content/uploads/Gypsum-Ceiling-Design-16-1-1024x670.jpg)' }} />
               <div className="absolute inset-0 bg-black/40 group-hover:bg-black/50 transition" />
               <div className="absolute bottom-8 left-8 text-white">
                 <p className="text-amber-400 uppercase text-sm">Residential</p>
