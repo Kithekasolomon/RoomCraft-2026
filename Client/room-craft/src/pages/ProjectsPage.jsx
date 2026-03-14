@@ -2,7 +2,7 @@ import React from 'react';
 
 const projects = [
   { title: "Modern Living Room - Westlands", category: "Residential", image: "/images/services/tv-units.jpg" },
-  { title: "Elegant Gypsum Ceiling - Karen", category: "Ceiling Design", image: "/images/services/gypsum-ceiling.jpg" },
+  { title: "Elegant Gypsum Ceiling - Karen", category: "Ceiling Design", image: "https://www.gypsumceilingkenya.co.ke/wp-content/uploads/Gypsum-Ceiling-Design-16-1-1024x670.jpg" },
   { title: "Luxury Kitchen Cabinets - Lavington", category: "Kitchen", image: "/images/services/wardrobes-cabinets.jpg" },
   { title: "Acoustic Office Ceiling - Upper Hill", category: "Commercial", image: "/images/services/acoustic-ceiling.jpg" },
   { title: "3D Wall Panels Feature", category: "Wall Design", image: "/images/services/wall-panels.jpg" },
